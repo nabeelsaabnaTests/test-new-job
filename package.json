@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "swr": "^1.2.1",
-    "uuid-base58": "^1.1.0"
+    "uuid-base58": "1.1.0"
   }
 }
+
